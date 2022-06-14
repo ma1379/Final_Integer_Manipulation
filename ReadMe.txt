@@ -1,0 +1,1 @@
+This project is meant to introduce students to C# integer manipulation and to provide Source Control practice.
